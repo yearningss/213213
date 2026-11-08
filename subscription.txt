@@ -1,0 +1,9 @@
+#profile-update-interval: 1
+#profile-title: Example
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://example.com/support
+#profile-web-page-url: https://example.com
+vless://00000000-0000-0000-0000-000000000000@127.0.0.1:0?encryption=none&type=tcp#🇩🇪%20Germany
+vless://00000000-0000-0000-0000-000000000000@127.0.0.2:0?encryption=none&type=tcp#🇳🇱%20Netherlands
+vless://00000000-0000-0000-0000-000000000000@127.0.0.3:0?encryption=none&type=tcp#🇺🇸%20USA
+vless://00000000-0000-0000-0000-000000000000@127.0.0.4:0?encryption=none&type=tcp#🇫🇷%20France
